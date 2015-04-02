@@ -21,10 +21,10 @@
     <js-module src="www/sbstaticresources.js" name="sbstaticresources">
         <clobbers target="window.plugins.sbstaticresources" />
     </js-module>
-	<asset src="www/img/logo.svg" target="../plugins/uk.co.safetybank.plugin.sbstaticresources/img/logo.svg" />
-	<asset src="www/img/loading.svg" target="../plugins/uk.co.safetybank.plugin.sbstaticresources/img/loading.svg" />
-	<asset src="www/img/doc.png" target="../plugins/uk.co.safetybank.plugin.sbstaticresources/img/" />
-	<asset src="www/img/offline.png" target="../plugins/uk.co.safetybank.plugin.sbstaticresources/img/offline.png" />
+	<asset src="www/img/logo.svg" target="plugins/uk.co.safetybank.plugin.sbstaticresources/img/logo.svg" />
+	<asset src="www/img/loading.svg" target="plugins/uk.co.safetybank.plugin.sbstaticresources/img/loading.svg" />
+	<asset src="www/img/doc.png" target="plugins/uk.co.safetybank.plugin.sbstaticresources/img/" />
+	<asset src="www/img/offline.png" target="plugins/uk.co.safetybank.plugin.sbstaticresources/img/offline.png" />
 	<asset src="www/img/sprite-ico-64@2x.png" target="plugins/uk.co.safetybank.plugin.sbstaticresources/img/" />
 	<asset src="www/img/sprite-ico-64.png" target="plugins/uk.co.safetybank.plugin.sbstaticresources/img/" />
 	<asset src="www/img/sprite-ico-32@2x.png" target="plugins/uk.co.safetybank.plugin.sbstaticresources/img/" />
