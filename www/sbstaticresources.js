@@ -1,11 +1,11 @@
 
 var activeOrientation = 'default';
 
-var OrientationChanger = function(){
+var sbstaticresources = function(){
 
 };
 
-OrientationChanger.prototype = {
+sbstaticresources.prototype = {
   /**
    * Lock the device into the requested orientation
    * 
@@ -20,7 +20,7 @@ OrientationChanger.prototype = {
 
     activeOrientation = orientation.toLowerCase();
 
-    cordova.exec(null, null, 'OrientationChanger', 'lockOrientation', [activeOrientation]);
+    cordova.exec(null, null, 'sbstaticresources', 'lockOrientation', [activeOrientation]);
   },
   /** 
    * Reset to default behaviour
@@ -36,6 +36,6 @@ OrientationChanger.prototype = {
   }
 };
 
-var plugin = new OrientationChanger();
+var plugin = new sbstaticresources();
 
 module.exports = plugin;
