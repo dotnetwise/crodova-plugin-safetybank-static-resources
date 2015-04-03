@@ -27,6 +27,11 @@
 	<asset src="sb/css/fonts/glyphicons-halflings-regular.woff" target="plugins/sb/css/fonts/glyphicons-halflings-regular.woff" />
 	<asset src="sb/css/fonts/asap-regular-webfont.woff" target="plugins/sb/css/fonts/asap-regular-webfont.woff" />
 
+	
+	<asset src="sb/js/vendor/knockout.js" target="plugins/sb/js/vendor/knockout.js" />
+	<asset src="sb/js/vendor/analytics.js" target="plugins/sb/js/vendor/analytics.js" />
+	
+	
 	<asset src="sb/img/logo.svg" target="plugins/sb/img/logo.svg" />
 	<asset src="sb/img/loading.svg" target="plugins/sb/img/loading.svg" />
 	<asset src="sb/img/doc.png" target="plugins/sb/img/doc.png" />
