@@ -22,6 +22,7 @@
         <clobbers target="window.plugins.sbstaticresources" />
     </js-module>
 	<asset src="sb/css/bootstrap/bootstrap3.css" target="plugins/sb/css/bootstrap/bootstrap3.css" />
+	<asset src="sb/css/app/default.css" target="plugins/sb/css/app/default.css" />
 
 	<asset src="sb/css/fonts/Chalet-LondonNineteenSixty.woff" target="plugins/sb/css/fonts/Chalet-LondonNineteenSixty.woff" />
 	<asset src="sb/css/fonts/glyphicons-halflings-regular.woff" target="plugins/sb/css/fonts/glyphicons-halflings-regular.woff" />
