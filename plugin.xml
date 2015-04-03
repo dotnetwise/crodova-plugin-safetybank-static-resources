@@ -23,26 +23,26 @@
     </js-module>
 	<asset src="sb/css/bootstrap/bootstrap3.css" target="plugins/sb/css/bootstrap/bootstrap3.css" />
 
-	<asset src="sb/css/fonts/Chalet-LondonNineteenSixty.woff" target="plugins/sb/css/fonts/" />
-	<asset src="sb/css/fonts/glyphicons-halflings-regular.woff" target="plugins/sb/css/fonts/" />
-	<asset src="sb/css/fonts/asap-regular-webfont.woff" target="plugins/sb/css/fonts/" />
+	<asset src="sb/css/fonts/Chalet-LondonNineteenSixty.woff" target="plugins/sb/css/fonts/Chalet-LondonNineteenSixty.woff" />
+	<asset src="sb/css/fonts/glyphicons-halflings-regular.woff" target="plugins/sb/css/fonts/glyphicons-halflings-regular.woff" />
+	<asset src="sb/css/fonts/asap-regular-webfont.woff" target="plugins/sb/css/fonts/asap-regular-webfont.woff" />
 
-	<asset src="sb/img/logo.svg" target="plugins/sb/img/" />
-	<asset src="sb/img/loading.svg" target="plugins/sb/img/svg" />
-	<asset src="sb/img/doc.png" target="plugins/sb/img/" />
-	<asset src="sb/img/offline.png" target="plugins/sb/img/" />
-	<asset src="sb/img/sprite-ico-64@2x.png" target="plugins/sb/img/" />
-	<asset src="sb/img/sprite-ico-64.png" target="plugins/sb/img/" />
-	<asset src="sb/img/sprite-ico-32@2x.png" target="plugins/sb/img/" />
-	<asset src="sb/img/sprite-ico-32.png" target="plugins/sb/img/" />
-	<asset src="sb/img/sprite-ico-24@2x.png" target="plugins/sb/img/" />
-	<asset src="sb/img/icon/icon.png" target="plugins/sb/img/" />
-	<asset src="sb/img/drag-handle.png" target="plugins/sb/img/" />
-	<asset src="sb/img/sprite-ico-24.png" target="plugins/sb/img/" />
-	<asset src="sb/img/workers.png" target="plugins/sb/img/" />
-	<asset src="sb/img/worker.png" target="plugins/sb/img/" />
-	<asset src="sb/img/worker-white.png" target="plugins/sb/img/" />
-	<asset src="sb/img/profile-white.png" target="plugins/sb/img/" />
+	<asset src="sb/img/logo.svg" target="plugins/sb/img/logo.svg" />
+	<asset src="sb/img/loading.svg" target="plugins/sb/img/loading.svg" />
+	<asset src="sb/img/doc.png" target="plugins/sb/img/doc.png" />
+	<asset src="sb/img/offline.png" target="plugins/sb/img/offline.png" />
+	<asset src="sb/img/sprite-ico-64@2x.png" target="plugins/sb/img/sprite-ico-64@2x.png" />
+	<asset src="sb/img/sprite-ico-64.png" target="plugins/sb/img/sprite-ico-64.png" />
+	<asset src="sb/img/sprite-ico-32@2x.png" target="plugins/sb/img/sprite-ico-32@2x.png" />
+	<asset src="sb/img/sprite-ico-32.png" target="plugins/sb/img/sprite-ico-32.png" />
+	<asset src="sb/img/sprite-ico-24@2x.png" target="plugins/sb/img/sprite-ico-24@2x.png" />
+	<asset src="sb/img/icon/icon.png" target="plugins/sb/img/icon.png" />
+	<asset src="sb/img/drag-handle.png" target="plugins/sb/img/drag-handle.png" />
+	<asset src="sb/img/sprite-ico-24.png" target="plugins/sb/img/sprite-ico-24.png" />
+	<asset src="sb/img/workers.png" target="plugins/sb/img/workers.png" />
+	<asset src="sb/img/worker.png" target="plugins/sb/img/worker.png" />
+	<asset src="sb/img/worker-white.png" target="plugins/sb/img/worker-white.png" />
+	<asset src="sb/img/profile-white.png" target="plugins/sb/img/profile-white.png" />
 		
 
     <!-- android -->
