@@ -28,9 +28,9 @@
 	<asset src="sb/css/fonts/asap-regular-webfont.woff" target="plugins/sb/css/fonts/asap-regular-webfont.woff" />-->
 
 
-  <asset src="sb/js/vendor/vendor.js" target="plugins/sb/js/vendor.js" />
+  <asset src="sb/js/vendor.js" target="plugins/sb/js/vendor.js" />
   <asset src="sb/js/vendor/analytics.js" target="plugins/sb/js/vendor/analytics.js" />
-  <asset src="sb/js/vendor/analytics.js" target="plugins/sb/js/vendor/fabric.js" />
+  <asset src="sb/js/vendor/fabric.js" target="plugins/sb/js/vendor/fabric.js" />
 
   <asset src="sb/img/sprite-ico-64@2x.png" target="plugins/sb/img/sprite-ico-64@2x.png" />
   <asset src="sb/img/offline.png" target="plugins/sb/img/offline.png" />
