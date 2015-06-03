@@ -6,7 +6,7 @@ var sbstaticresources = function(){
 };
 
 sbstaticresources.prototype = {
-  version: 5500,
+  version: 6000,
   //  cordova.exec(null, null, 'sbstaticresources', 'lockOrientation', [activeOrientation]);
 };
 
